@@ -3,6 +3,7 @@ openmrs-contrib-android-client
 
 ### Android client for OpenMRS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c08a4b2ca8684e8c8cd6d8b6ef3913ac)](https://www.codacy.com/app/marzeion-tomasz/openmrs-contrib-android-client_TOMEK?utm_source=github.com&utm_medium=referral&utm_content=tmarzeion/openmrs-contrib-android-client&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/openmrs/openmrs-contrib-android-client.svg?branch=master)](https://travis-ci.org/openmrs/openmrs-contrib-android-client) [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.3&x2=0)](https://github.com/openmrs/openmrs-contrib-android-client/releases/latest)
 
 # GSoC 2016
